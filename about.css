@@ -117,14 +117,25 @@ nav a {
 .section2 {
 	height: auto;
 	width: 100%;
-	background-color: red;
+	background-color: #F8F8F8;
 	display: block;
 	text-align: center;
 }
 
 .section2 h2 {
+	margin: 30px auto;
+	padding-top: 50px;
+}
+
+.section2 p {
 	width: 50%;
-	text-align: center;
+	margin: 0 auto;
+
+}
+
+.section2 a {
+	margin: 20px !important;
+	
 }
 
 
